@@ -1,0 +1,16 @@
+{
+	"name": "memorize.ai",
+	"description": "Do less. Learn more.",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "electron .",
+		"build": "electron-builder"
+	},
+	"devDependencies": {
+		"electron": "^8.2.5",
+		"electron-builder": "^22.6.0"
+	},
+	"author": "Ken Mueller",
+	"private": true
+}
