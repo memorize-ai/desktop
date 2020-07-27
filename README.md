@@ -4,7 +4,7 @@
 
 ## Download
 
-**See [Releases](https://github.com/kenmueller/memorize.ai-desktop/releases)**
+**See [Releases](https://github.com/kenmueller/memorize.ai-desktop/releases)** or install with `brew tap memorize-ai/taps && brew cask install memorize.ai` on macOS.
 
 ## Start for development
 
